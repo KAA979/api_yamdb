@@ -20,7 +20,8 @@
 
 ```bash
 git clone https://github.com/KAA979/api_yamdb.git
-
+```
+```bash
 cd api_yamdb
 ```
 
@@ -28,7 +29,8 @@ Cоздать и активировать виртуальное окружен�
 
 ```bash
 python -m venv venv
-
+```
+```bash
 source venv/bin/activate
 ```
 
@@ -36,7 +38,8 @@ source venv/bin/activate
 
 ```bash
 python -m pip install --upgrade pip
-
+```
+```bash
 pip install -r requirements.txt
 ```
 
